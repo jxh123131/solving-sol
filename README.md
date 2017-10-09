@@ -1,5 +1,6 @@
 Solving Sol
 ===========
+Yayayayayaya
 
 ![Sol LeWitt Reference Image](http://solvingsol.com/screenshots/thumbs/391-amiccolis-index.html.png)
 
